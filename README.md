@@ -1,11 +1,10 @@
-TypeScript React Hello World Demo
+TypeScript React Set State to Same Value Whether Re-Rendering Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+给state设置为同一个值，并不会重新触发re-rendering
 
 ```
 npm install
 npm run demo
 ```
 
-It will open page on browser automatically.
